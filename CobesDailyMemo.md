@@ -43,6 +43,7 @@ C:\Users\bluem\IdeaProjects\ex00\src\main\webapp\WEB-INF\spring/root-context.xml
 2024.12.16
 mariaDB JDBC 연결.
 HikariCP 설정 
-Mybatis 설정 완료 
+Mybatis 설정 완료
+Mybatis의 Mapper 인터페이스, XML 설정 
 
 
