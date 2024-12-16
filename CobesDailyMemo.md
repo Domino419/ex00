@@ -40,3 +40,9 @@ C:\Users\bluem\IdeaProjects\ex00\src\main\webapp\WEB-INF\spring/root-context.xml
         return ds;
     }
 
+2024.12.16
+mariaDB JDBC 연결.
+HikariCP 설정 
+Mybatis 설정 완료 
+
+
